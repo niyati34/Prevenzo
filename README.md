@@ -1,4 +1,4 @@
-# AccSafe 
+# Prevenzo 
 Accident Detection Android App
 Application to Prevent and Detect Accidents
 
@@ -9,5 +9,5 @@ Application to Prevent and Detect Accidents
 • Sends automatic SOS on detetion of accdent<br>
 
 
-# Screenshots
+
 
