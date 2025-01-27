@@ -265,4 +265,3 @@ public class DetailsActivity extends AppCompatActivity {
     }
 }
 
-// Commit: add @ 2025-01-13T18:57:46
