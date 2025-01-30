@@ -266,4 +266,3 @@ public class DetailsActivity extends AppCompatActivity {
 }
 
 
-// Commit: Update layout @ 2025-02-24T10:54:19
