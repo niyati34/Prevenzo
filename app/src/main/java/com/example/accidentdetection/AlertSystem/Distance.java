@@ -118,4 +118,3 @@ public class Distance {
     }
 }
 
-// Commit: chk @ 2025-02-24T07:26:23
